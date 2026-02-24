@@ -5,17 +5,17 @@ I enjoy working across **frontend + backend**, especially projects with authenti
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React  
+## Tech Stack
+**Frontend:** HTML, CSS, JavaScript
 **Backend:** Python, Flask  
 **Database:** SQLite, MySQL  
 **Other Tools:** Git, REST APIs, JWT, AES Encryption  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 Sneaker Image Encryption System
+### Sneaker Image Encryption System (SIES)
 **Description:** A secure platform where users can upload, encrypt, and decrypt sneaker images.  
 **Tech:** Flask, SQLite, JWT, AES Encryption  
 **Key Features:**
@@ -42,51 +42,6 @@ SneakerImageEncryption/
 ![Login Page](screenshots/sneaker-login.png)  
 ![Image Upload](screenshots/sneaker-upload.png)  
 ![Encrypted Image Example](screenshots/sneaker-encrypted.png)  
-
----
-
-### 📝 Mini CRUD Web App
-**Description:** A simple web app demonstrating full CRUD operations with a database backend.  
-**Tech:** Flask, SQLite  
-**Key Features:**
-- Add, view, edit, delete entries  
-- Dynamic forms and validation  
-- Responsive UI  
-
-**Folder Structure:**
-MiniCRUD/
-├─ app.py
-├─ templates/
-├─ static/
-├─ database.db
-├─ .gitignore
-
-**Repo:** *Add repo link here*  
-**Screenshots:**  
-![CRUD Home](screenshots/crud-home.png)  
-![CRUD Form](screenshots/crud-form.png)  
-
----
-
-### 🖌️ Upcycling & Custom Clothing Platform (Prototype)
-**Description:** Web-based prototype for showcasing custom upcycled clothing and jewelry.  
-**Tech:** HTML, CSS, JavaScript  
-**Key Features:**
-- Product gallery  
-- Order/contact form  
-- Visual mockups for custom designs  
-
-**Folder Structure:**
-CustomClothing/
-├─ index.html
-├─ css/
-├─ js/
-├─ images/
-
-**Repo:** *Add repo link here*  
-**Screenshots:**  
-![Home Page](screenshots/custom-home.png)  
-![Product Gallery](screenshots/custom-gallery.png)  
 
 ---
 
