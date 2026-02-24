@@ -1,4 +1,4 @@
-# 🌟 Haziqah Othman – Junior Full Stack Developer
+# Haziqah Othman – Junior Full Stack Developer
 
 Hi! I’m a Computer Science (Multimedia) grad passionate about building secure, user-focused web apps.  
 I enjoy working across **frontend + backend**, especially projects with authentication, encryption, databases, and dynamic UI.  
